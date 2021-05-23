@@ -1,0 +1,28 @@
+# Visual Studio Code # 
+.vscode/*
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+!.vscode/extensions.json 
+.history.vscode/settings.json
+
+# img
+.imgages/*
+.img/*
+*.jpeg
+*.jpg
+*.png
+*.gif
+
+#fonts
+.webfonts/*
+
+#video
+.videos/*
+.vid/*
+*.mp4
+*.mpeg
+*.3gb
+
+#log
+*.log
